@@ -1,11 +1,27 @@
 # 'condroombivakmuts'
 
-5 9 2 7    大 big, great, vast, large, high
-7 3 2 9    猩 species of orangutan
-9 7 6 2    面 face; surface; plane; side, dimension
-5 1 7 7    具 tool, implement; draw up, write
 
-5 9 2 2    夢 dream; visionary; wishful
-6 0 F 3    想 think, speculate, plan, consider
-5 9 4 7    奇 strange, unusual, uncanny, occult
-8 E 5 F    蹟 trace, tracks; footprints
+0
+
+--------   x(4)    -------
+
+0 0 0 0            9 6 F 6    零 zero
+
+--------   hex     -------
+
+0 0 0 0            9 E 7 F    鹿 deer; surname
+0 0 0 0            7 2 7 9    特 special, unique, distinguished
+0 0 0 0            4 E 3 9    丹 red, pellet, powder, cinnabar
+0 0 0 0            6 2 E F    港 port, harbor; small stream; 
+
+-------  unicode   -------
+
+0 0 0 0            5 9 2 7    大 big, great, vast, large, high
+0 0 0 0            7 3 2 9    猩 species of orangutan
+0 0 0 0            9 7 6 2    面 face; surface; plane; side, dimension
+0 0 0 0            5 1 7 7    具 tool, implement; draw up, write
+
+0 0 0 0            5 9 2 2    夢 dream; visionary; wishful
+0 0 0 0            6 0 F 3    想 think, speculate, plan, consider
+0 0 0 0            5 9 4 7    奇 strange, unusual, uncanny, occult
+0 0 0 0            8 E 5 F    蹟 trace, tracks; footprints
